@@ -1,6 +1,6 @@
 <!-- Your title -->
 ## Hi, I'm Prabhasha , a Developer from Sri Lanka 🇱🇰. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
