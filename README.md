@@ -1,6 +1,5 @@
 <!-- Your title -->
 ## Hi, I'm Prabhasha , a Developer from Sri Lanka 🇱🇰. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -18,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 
-
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
   
