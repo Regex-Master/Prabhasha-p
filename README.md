@@ -5,6 +5,13 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Prabhasha-p)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prabhasha-p-265a991b9/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Prabhasha999/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Prabhasha:prabhasha999@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:prabhasha999@gmail.com)
+
+&nbsp;
 
 <html lang="en">
 <script src="./assets/js/sweet-scroll.min.js"></script>
@@ -27,17 +34,6 @@ You can use the website to generate badges: https://shields.io/
 <script src="./assets/js/main.js"></script>
 </body>
 </html>
-
-
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Prabhasha-p)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prabhasha-p-265a991b9/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Prabhasha999/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Prabhasha:prabhasha999@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:prabhasha999@gmail.com)
-
-&nbsp;
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
