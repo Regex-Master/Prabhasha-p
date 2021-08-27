@@ -14,6 +14,9 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <html lang="en">
+      
+<div class="site-description"><p id="typed"></p></div>
+      
 <script src="./assets/js/sweet-scroll.min.js"></script>
 
 <script src="./assets/js/google-analytics.js"></script>
