@@ -98,7 +98,7 @@ Reach out to me 👓
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Prabhasha](https://t.me/Prabha_sha/)**                                                                                |
 |<a href="https://twitter.com/Prabhashapiumantha"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/Prabhasha-p"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/Prabhasha999"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/prabhasha-p-265a991b9//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
-
+</html>
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
@@ -109,4 +109,4 @@ Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░
 
 /* $Prabhasha-p
 
-</html>
+
