@@ -7,7 +7,26 @@ You can use the website to generate badges: https://shields.io/
 
 
 <html lang="en">
+<script src="./assets/js/sweet-scroll.min.js"></script>
 
+<script src="./assets/js/google-analytics.js"></script>
+
+<script src="./assets/js/typed.js"></script>
+<script>
+      var typed = new Typed("#typed", {
+        strings: ["> Programmer", "> Web Developer", "> Graphic Designer", "> Music Lover"],
+        typeSpeed: 80,
+        backSpeed: 80,
+        backDelay: 1800,
+        loop: true,
+        showCursor: false,
+        contentType: null,
+      });
+    </script>
+
+<script src="./assets/js/main.js"></script>
+</body>
+</html>
 
 
 
